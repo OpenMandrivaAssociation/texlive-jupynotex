@@ -1,6 +1,6 @@
 Name:		texlive-jupynotex
 Version:	56715
-Release:	1
+Release:	2
 Summary:	Include whole or partial Jupyter notebooks in LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jupynotex
